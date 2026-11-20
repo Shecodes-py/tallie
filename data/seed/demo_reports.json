@@ -1,0 +1,19 @@
+{
+  "_note": "MOCK live reports from other voters, so the demo is not empty. Senders are made-up ids, hashed with the salt like real numbers. Unit codes are real Rivers State polling units.",
+  "liveReports": [
+    { "unit": "32/15/04/012", "kind": "arrived", "sender": "demo-voter-01", "minutesAfter8": 5 },
+    { "unit": "32/15/04/012", "kind": "arrived", "sender": "demo-voter-02", "minutesAfter8": 9 },
+    { "unit": "32/15/04/012", "kind": "accred", "sender": "demo-voter-01", "minutesAfter8": 41 },
+    { "unit": "32/15/04/012", "kind": "queue", "sender": "demo-voter-02", "minutesAfter8": 44 },
+    { "unit": "32/15/04/012", "kind": "queue", "sender": "demo-voter-03", "minutesAfter8": 52 },
+    { "unit": "32/15/04/012", "kind": "queue", "sender": "demo-voter-04", "minutesAfter8": 63 },
+    { "unit": "32/21/01/001", "kind": "arrived", "sender": "demo-voter-11", "minutesAfter8": 70 },
+    { "unit": "32/22/05/001", "kind": "arrived", "sender": "demo-voter-21", "minutesAfter8": 2 },
+    { "unit": "32/22/05/001", "kind": "arrived", "sender": "demo-voter-22", "minutesAfter8": 3 },
+    { "unit": "32/22/05/001", "kind": "arrived", "sender": "demo-voter-23", "minutesAfter8": 6 },
+    { "unit": "32/22/05/001", "kind": "arrived", "sender": "demo-voter-24", "minutesAfter8": 8 },
+    { "unit": "32/22/05/001", "kind": "accred", "sender": "demo-voter-21", "minutesAfter8": 15 },
+    { "unit": "32/22/05/001", "kind": "accred", "sender": "demo-voter-22", "minutesAfter8": 17 },
+    { "unit": "32/22/01/004", "kind": "arrived", "sender": "demo-voter-31", "minutesAfter8": 30 }
+  ]
+}
